@@ -1,0 +1,1 @@
+export const photos = ["headphone.avif", "laptop-image.jpg", "product-image.jpg", "watch.avif"];
